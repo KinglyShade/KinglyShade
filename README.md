@@ -10,7 +10,7 @@
 
 ## Kingly Fenix Studios
 
-![Kingly Fenix Studios]([url_de_la_imagen](https://imgur.com/Ee9SrkQ)) <!-- Reemplaza "url_de_la_imagen" con la URL de tu imagen -->
+![Kingly Fenix Studios](https://imgur.com/Ee9SrkQ)  <!-- Reemplaza "url_de_la_imagen" con la URL de tu imagen -->
 
 En mi viaje de programación, he creado junto a unos amigosKingly Fenix Studios, un espacio donde nos apasiona la programación y la tecnología, y nos esforzamos por crear soluciones en cada proyecto que abordamos. Somos un equipo comprometido con la excelencia y la creatividad en el mundo de la programación.
 
