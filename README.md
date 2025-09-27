@@ -1,28 +1,38 @@
-# Hola, soy KinglyShade! 👋
+# KinglyShade
 
-¡Bienvenido a mi rincón en GitHub! Soy un chico sencillo apasionado por la programación y la creación de cosas.
+**`Software Developer | Creative Problem Solver`**
 
-## Sobre mí
+---
 
-- 💻 Actualmente estoy aprendiendo y mejorando mis habilidades en la programación.
-- 🚀 Me encanta explorar nuevas tecnologías y desafíos emocionantes.
-- 🎮 Además de programar, disfruto de los videojuegos y la creatividad en general.
+Passionate about software development and creating efficient technological solutions. I am always exploring new tools and tackling challenges to continuously improve my skills.
 
-## Kingly Fenix Studios
+### **Technologies & Tools**
 
-![Kingly Fenix Studios](https://imgur.com/Ee9SrkQ)  <!-- Reemplaza "url_de_la_imagen" con la URL de tu imagen -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
 
-En mi viaje de programación, he creado junto a unos amigosKingly Fenix Studios, un espacio donde nos apasiona la programación y la tecnología, y nos esforzamos por crear soluciones en cada proyecto que abordamos. Somos un equipo comprometido con la excelencia y la creatividad en el mundo de la programación.
+### **Kingly Fenix Studios**
 
-## Colaboración
+I am the co-founder of **Kingly Fenix Studios**, a collective where we are passionate about technology and strive to create innovative solutions. We are a team committed to excellence and creativity in every project.
 
-Estoy siempre abierto a colaboraciones emocionantes. Si tienes un proyecto interesante o simplemente quieres charlar sobre código, ¡hablemos!
+<div align="center">
+  <a href="https://discord.gg/QSS2U7p7fc">
+    </a>
+</div>
 
-## Cómo contactarme
+### **Collaboration & Contact**
 
-Puedes encontrarme en:
+I'm open to collaborating on interesting projects. If you have an idea or simply want to connect, feel free to reach out to me.
 
-- 📧 Discord: [Kingly Fenix Studios](https://discord.gg/QSS2U7p7fc)
-
-
-¡Gracias por visitar mi perfil! Espero que encuentres algo interesante aquí. 😊
+<p align="left">
+<a href="https://discord.gg/QSS2U7p7fc">
+  <!--<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>-->
+</a>
+<a href="https://www.linkedin.com/in/your_username/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</p>
