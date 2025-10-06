@@ -33,6 +33,5 @@ I'm open to collaborating on interesting projects. If you have an idea or simply
 <a href="https://discord.gg/QSS2U7p7fc">
   <!--<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>-->
 </a>
-<a href="https://www.linkedin.com/in/your_username/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 </p>
